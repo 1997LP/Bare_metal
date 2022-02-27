@@ -1,0 +1,6 @@
+x6_a55 BOARD
+M:	liupeng
+S:	Maintained
+F:	board/innoslicon/x6_a55/
+F:	include/configs/x6_a55.h
+F:	configs/x6_a55_defconfig

@@ -1,0 +1,10 @@
+if TARGET_X6_A55
+config SYS_ARCH
+	default "arm"
+config SYS_VENDOR
+	default "innosilicon"
+config SYS_BOARD
+	default "x6_a55"
+config SYS_CONFIG_NAME
+	default "x6_a55"
+endif
